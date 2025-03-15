@@ -2,7 +2,7 @@
   {
     "name": "Firestorm",
     "animation": "firestorm",
-    "skillIcon": "assets/images/skills/fireStorm.png",
+    "skillIcon": "assets/images/skills/firestorm.png",
     "soundEffect": "assets/sounds/knight/firestorm.mp3",
     "cooldown": 10000,
     "range": 10
