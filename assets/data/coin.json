@@ -1,0 +1,26 @@
+[
+  {
+    "name": "default",
+    "fps": 12,
+    "offsetX": 0,
+    "offsetY": 0,
+    "offsetW": 0,
+    "offsetH": 0,
+    "frames": [
+      "assets/images/animations/coin/default/Frame1.png",
+      "assets/images/animations/coin/default/Frame2.png",
+      "assets/images/animations/coin/default/Frame3.png",
+      "assets/images/animations/coin/default/Frame4.png",
+      "assets/images/animations/coin/default/Frame5.png",
+      "assets/images/animations/coin/default/Frame6.png",
+      "assets/images/animations/coin/default/Frame7.png",
+      "assets/images/animations/coin/default/Frame8.png",
+      "assets/images/animations/coin/default/Frame9.png",
+      "assets/images/animations/coin/default/Frame10.png",
+      "assets/images/animations/coin/default/Frame11.png",
+      "assets/images/animations/coin/default/Frame12.png",
+      "assets/images/animations/coin/default/Frame13.png",
+      "assets/images/animations/coin/default/Frame14.png"
+    ]
+  }
+]

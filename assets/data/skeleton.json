@@ -1,0 +1,114 @@
+[
+  {
+    "name": "idle",
+    "fps": 16,
+    "offsetX": 0,
+    "offsetY": 0,
+    "offsetW": 0,
+    "offsetH": 0,
+    "frames": [
+      "assets/images/animations/skeleton/idle/Frame1.png",
+      "assets/images/animations/skeleton/idle/Frame2.png",
+      "assets/images/animations/skeleton/idle/Frame3.png",
+      "assets/images/animations/skeleton/idle/Frame4.png",
+      "assets/images/animations/skeleton/idle/Frame5.png",
+      "assets/images/animations/skeleton/idle/Frame6.png",
+      "assets/images/animations/skeleton/idle/Frame7.png",
+      "assets/images/animations/skeleton/idle/Frame8.png"
+    ]
+  },
+  {
+    "name": "walk",
+    "fps": 32,
+    "offsetX": 0,
+    "offsetY": -2,
+    "offsetW": 0,
+    "offsetH": 2,
+    "frames": [
+      "assets/images/animations/skeleton/walk/Frame1.png",
+      "assets/images/animations/skeleton/walk/Frame2.png",
+      "assets/images/animations/skeleton/walk/Frame3.png",
+      "assets/images/animations/skeleton/walk/Frame4.png",
+      "assets/images/animations/skeleton/walk/Frame5.png",
+      "assets/images/animations/skeleton/walk/Frame6.png",
+      "assets/images/animations/skeleton/walk/Frame7.png",
+      "assets/images/animations/skeleton/walk/Frame8.png",
+      "assets/images/animations/skeleton/walk/Frame9.png",
+      "assets/images/animations/skeleton/walk/Frame10.png",
+      "assets/images/animations/skeleton/walk/Frame11.png"
+    ]
+  },
+  {
+    "name": "jump",
+    "fps": 16,
+    "offsetX": -1.2,
+    "offsetY": -1.2,
+    "offsetW": -2,
+    "offsetH": -2,
+    "frames": ["assets/images/animations/skeleton/jump/Frame1.png"]
+  },
+  {
+    "name": "attack",
+    "fps": 60,
+    "offsetX": 0,
+    "offsetY": -1.2,
+    "offsetW": 0.8,
+    "offsetH": 1.2,
+    "frames": [
+      "assets/images/animations/skeleton/attack/Frame1.png",
+      "assets/images/animations/skeleton/attack/Frame2.png",
+      "assets/images/animations/skeleton/attack/Frame3.png",
+      "assets/images/animations/skeleton/attack/Frame4.png",
+      "assets/images/animations/skeleton/attack/Frame5.png",
+      "assets/images/animations/skeleton/attack/Frame6.png",
+      "assets/images/animations/skeleton/attack/Frame7.png",
+      "assets/images/animations/skeleton/attack/Frame8.png",
+      "assets/images/animations/skeleton/attack/Frame9.png",
+      "assets/images/animations/skeleton/attack/Frame10.png",
+      "assets/images/animations/skeleton/attack/Frame11.png",
+      "assets/images/animations/skeleton/attack/Frame12.png",
+      "assets/images/animations/skeleton/attack/Frame13.png",
+      "assets/images/animations/skeleton/attack/Frame14.png",
+      "assets/images/animations/skeleton/attack/Frame15.png"
+    ]
+  },
+  {
+    "name": "death",
+    "fps": 48,
+    "offsetX": -7.2,
+    "offsetY": -1.2,
+    "offsetW": 10,
+    "offsetH": 1.2,
+    "frames": [
+      "assets/images/animations/skeleton/death/Frame1.png",
+      "assets/images/animations/skeleton/death/Frame2.png",
+      "assets/images/animations/skeleton/death/Frame3.png",
+      "assets/images/animations/skeleton/death/Frame4.png",
+      "assets/images/animations/skeleton/death/Frame5.png",
+      "assets/images/animations/skeleton/death/Frame6.png",
+      "assets/images/animations/skeleton/death/Frame7.png",
+      "assets/images/animations/skeleton/death/Frame8.png",
+      "assets/images/animations/skeleton/death/Frame9.png",
+      "assets/images/animations/skeleton/death/Frame10.png",
+      "assets/images/animations/skeleton/death/Frame11.png",
+      "assets/images/animations/skeleton/death/Frame12.png",
+      "assets/images/animations/skeleton/death/Frame13.png",
+      "assets/images/animations/skeleton/death/Frame14.png",
+      "assets/images/animations/skeleton/death/Frame15.png"
+    ]
+  },
+  {
+    "name": "hurt",
+    "fps": 16,
+    "offsetX": 0,
+    "offsetY": -3.2,
+    "offsetW": 2.4,
+    "offsetH": 3.2,
+    "frames": [
+      "assets/images/animations/skeleton/hurt/Frame1.png",
+      "assets/images/animations/skeleton/hurt/Frame2.png",
+      "assets/images/animations/skeleton/hurt/Frame3.png",
+      "assets/images/animations/skeleton/hurt/Frame4.png"
+    ]
+  }
+]

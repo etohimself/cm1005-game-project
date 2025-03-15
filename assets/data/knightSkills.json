@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Firestorm",
+    "animation": "firestorm",
+    "skillIcon": "assets/images/skills/fireStorm.png",
+    "soundEffect": "assets/sounds/knight/firestorm.mp3",
+    "cooldown": 10000,
+    "range": 10
+  },
+  {
+    "name": "Rage",
+    "animation": "rage",
+    "skillIcon": "assets/images/skills/rage.png",
+    "soundEffect": "assets/sounds/knight/rage.mp3",
+    "cooldown": 15000
+  },
+  {
+    "name": "Cloak",
+    "animation": "idle",
+    "skillIcon": "assets/images/skills/cloak.png",
+    "soundEffect": "assets/sounds/knight/cloak.mp3",
+    "cooldown": 15000
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "name": "default",
+    "fps": 1,
+    "offsetX": 0,
+    "offsetY": 0,
+    "offsetW": 0,
+    "offsetH": 0,
+    "frames": ["assets/images/animations/tree/default/Frame1.png"]
+  }
+]

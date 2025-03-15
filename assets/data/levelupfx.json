@@ -1,0 +1,25 @@
+[
+  {
+    "name": "default",
+    "fps": 14,
+    "offsetX": -4,
+    "offsetY": -19,
+    "offsetW": 0,
+    "offsetH": 0,
+    "frames": [
+      "assets/images/animations/knight/levelup/Frame1.png",
+      "assets/images/animations/knight/levelup/Frame2.png",
+      "assets/images/animations/knight/levelup/Frame3.png",
+      "assets/images/animations/knight/levelup/Frame4.png",
+      "assets/images/animations/knight/levelup/Frame5.png",
+      "assets/images/animations/knight/levelup/Frame6.png",
+      "assets/images/animations/knight/levelup/Frame7.png",
+      "assets/images/animations/knight/levelup/Frame8.png",
+      "assets/images/animations/knight/levelup/Frame9.png",
+      "assets/images/animations/knight/levelup/Frame10.png",
+      "assets/images/animations/knight/levelup/Frame11.png",
+      "assets/images/animations/knight/levelup/Frame12.png",
+      "assets/images/animations/knight/levelup/Frame13.png"
+    ]
+  }
+]
